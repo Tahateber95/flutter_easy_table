@@ -28,7 +28,7 @@ Simply add into your dependencies the following line.
 
 ```dart
 dependencies:
-  easy_table: ^0.0.2
+  easy_table: ^0.0.1
 ```
 
 ## Usage
