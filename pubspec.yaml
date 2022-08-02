@@ -1,7 +1,7 @@
 name: easy_table
 description: A scrollable paginated datatable.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Tahateber95/flutter_easy_table
 
 environment:
   sdk: ">=2.17.5 <3.0.0"
