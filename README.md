@@ -67,4 +67,4 @@ EasyPaginatedTable(
 
 ## Additional information
 
-GitHub Repo: <https://github.com/Tahateber/easy_table>
+GitHub Repo: <https://github.com/Tahateber95/flutter_easy_table>
