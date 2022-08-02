@@ -1,5 +1,5 @@
-import 'package:easy_table/easy_table.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_easy_table/flutter_easy_table.dart';
 
 void main() {
   runApp(const MyApp());
